@@ -1,0 +1,14 @@
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.AssemblyInfoInputs.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.AssemblyInfo.cs
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.csproj.CoreCompileInputs.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\bin\Debug\net8.0\c# programs and patterns.exe
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\bin\Debug\net8.0\c# programs and patterns.deps.json
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\bin\Debug\net8.0\c# programs and patterns.runtimeconfig.json
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\bin\Debug\net8.0\c# programs and patterns.dll
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\bin\Debug\net8.0\c# programs and patterns.pdb
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.dll
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\refint\c# programs and patterns.dll
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.pdb
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\c# programs and patterns.genruntimeconfig.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Debug\net8.0\ref\c# programs and patterns.dll

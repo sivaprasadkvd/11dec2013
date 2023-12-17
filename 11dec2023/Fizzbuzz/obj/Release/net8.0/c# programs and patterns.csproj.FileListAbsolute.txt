@@ -1,0 +1,4 @@
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Release\net8.0\c# programs and patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Release\net8.0\c# programs and patterns.AssemblyInfoInputs.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Release\net8.0\c# programs and patterns.AssemblyInfo.cs
+C:\Users\kvdsp\source\repos\c# programs and patterns\c# programs and patterns\obj\Release\net8.0\c# programs and patterns.csproj.CoreCompileInputs.cache
